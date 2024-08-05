@@ -6,10 +6,6 @@
 Will provide CV upon request
 
 ## Projects
-### Causal Analysis of Deforestation on Regional Climate Patterns
-#### Objective: Investigate how deforestation in specific regions contributes to changes in local climate, such as temperature and precipitation patterns.
-#### Data Sources: Satellite imagery data (e.g., MODIS, Landsat), climate data (temperature, precipitation), and deforestation rates from environmental organizations.
-#### Methods: Time series analysis, causal impact analysis, and possibly machine learning methods for spatiotemporal data.
 
 ### Causal Relationship Between Extreme Weather Events and Economic Inequality
 #### Objective: Explore how the frequency and intensity of extreme weather events affect economic inequality within regions.
